@@ -1,6 +1,6 @@
 # ezhuthukal_app
 
-A new Flutter project.
+-[Backend Repository using Pythin Django](https://github.com/Aswanthds/ezhuthukal_backend.git)
 
 ## Getting Started
 
